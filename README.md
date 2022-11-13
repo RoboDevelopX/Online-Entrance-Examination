@@ -155,7 +155,3 @@ $response   = $Kairos->verify($argumentArray);
 ```
 `The SDK also includes a file upload field, which converts a local image file to base64 data.`
 
-##Support 
-Have an issue? Visit our [Support page](http://www.kairos.com/support) or [create an issue on GitHub](https://github.com/kairosinc/Kairos-SDK-PHP)
-
-Test on [RapidAPI](https://rapidapi.com/package/KairosAPI/functions?utm_source=KairosGitHub&utm_medium=button)
